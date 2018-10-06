@@ -1,0 +1,4 @@
+#Sun Sep 30 22:56:51 BRT 2018
+base.0=/Users/murillo/Documents/estudo/FastLane/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e8c23abfe6081531a0942c49704fd69f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ce4273ff6e59ac45a630f296d2cd8a1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/073f4135054f18059ef3cca89281c757/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/968f228483a0690de4fb66078d8b6323/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d588372c73a36404a3fc22dfc070b1ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/333ef3a64a5e6ec214b7c8274f9f837c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e81e8ad93bc0665c8ce36bce79b56ef0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dad776d919d749f3a56314975eeb8d84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d7e79277d4a2e40ded565872fc5206af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5dc246bb25d28fb09efa6387c8a813c1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ad3bed560571fd4a3bdf56cd11a6d67e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a3437330d4d5906d6c6575e5149e20c8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/3b6724178920d6c277c7aff6a87be54a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/87fb8dd507ab7d6af5a38807f79d4207/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/murillo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/335fdcde356497e5e9af2ba82c2a964b/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b19c013473e83cdb000a873e11a00e23/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cc570eae116d5dec4a11dba99b510e7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fc1f5b5f2790a425744c191d34493db0/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b8d41710c9db1918303e847dd856770d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b143825788aab528b5c47138f19e11c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e8c23abfe6081531a0942c49704fd69f/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e8c23abfe6081531a0942c49704fd69f/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e8c23abfe6081531a0942c49704fd69f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e8c23abfe6081531a0942c49704fd69f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/87fb8dd507ab7d6af5a38807f79d4207/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/87fb8dd507ab7d6af5a38807f79d4207/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/murillo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/335fdcde356497e5e9af2ba82c2a964b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/murillo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/335fdcde356497e5e9af2ba82c2a964b/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.fastlane.MainActivity
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e8c23abfe6081531a0942c49704fd69f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e8c23abfe6081531a0942c49704fd69f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ce4273ff6e59ac45a630f296d2cd8a1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ce4273ff6e59ac45a630f296d2cd8a1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/073f4135054f18059ef3cca89281c757/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/073f4135054f18059ef3cca89281c757/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/968f228483a0690de4fb66078d8b6323/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/968f228483a0690de4fb66078d8b6323/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d588372c73a36404a3fc22dfc070b1ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d588372c73a36404a3fc22dfc070b1ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/333ef3a64a5e6ec214b7c8274f9f837c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/333ef3a64a5e6ec214b7c8274f9f837c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e81e8ad93bc0665c8ce36bce79b56ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e81e8ad93bc0665c8ce36bce79b56ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dad776d919d749f3a56314975eeb8d84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dad776d919d749f3a56314975eeb8d84/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d7e79277d4a2e40ded565872fc5206af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d7e79277d4a2e40ded565872fc5206af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5dc246bb25d28fb09efa6387c8a813c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5dc246bb25d28fb09efa6387c8a813c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ad3bed560571fd4a3bdf56cd11a6d67e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ad3bed560571fd4a3bdf56cd11a6d67e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a3437330d4d5906d6c6575e5149e20c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/a3437330d4d5906d6c6575e5149e20c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/3b6724178920d6c277c7aff6a87be54a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/3b6724178920d6c277c7aff6a87be54a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/87fb8dd507ab7d6af5a38807f79d4207/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/murillo/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/87fb8dd507ab7d6af5a38807f79d4207/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b19c013473e83cdb000a873e11a00e23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b19c013473e83cdb000a873e11a00e23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cc570eae116d5dec4a11dba99b510e7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cc570eae116d5dec4a11dba99b510e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fc1f5b5f2790a425744c191d34493db0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fc1f5b5f2790a425744c191d34493db0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b8d41710c9db1918303e847dd856770d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b8d41710c9db1918303e847dd856770d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b143825788aab528b5c47138f19e11c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/murillo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b143825788aab528b5c47138f19e11c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/murillo/Documents/estudo/FastLane/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

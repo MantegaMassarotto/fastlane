@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/murillo/Documents/estudo/FastLane/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/murillo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dad776d919d749f3a56314975eeb8d84/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/murillo/Documents/estudo/FastLane/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ce4273ff6e59ac45a630f296d2cd8a1d/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/murillo/Documents/estudo/FastLane/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ce4273ff6e59ac45a630f296d2cd8a1d/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/murillo/Documents/estudo/FastLane/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/murillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ce4273ff6e59ac45a630f296d2cd8a1d/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
